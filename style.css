@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(43, 39, 39);
+    font-family: "Oswald";
+}
+
+h1, h3 {
+  color: rgb(223, 207, 207);
+  text-shadow: 3px 3px 4px black;
+}
+.navbar {
+  background-color: #6c757d;
+}
+.card-text {
+  font-size: 0.9rem;
+}
+.card {
+  margin-bottom: 1.5rem;
+}
+
+.Navigation-bar{
+
+}
+
+.picture{
+  border: solid rgb(255, 255, 255);
+  border-radius: 40%;
+  margin-left: auto; 
+  display: block; 
+  margin-right: auto
+}
+
+.pfp{
+  height: 500px;
+  border-radius: 50%;
+}
+
+.hobby{
+  width: 400px;
+  border-radius: 30%;
+  margin-left: auto; 
+  display: block; 
+  margin-right: auto;
+  margin-bottom: 2rem;
+}
+
+.myname{
+  text-align: center; color: rgb(255, 255, 255); font-style: italic;
+  text-shadow: 4px 5px 4px rgb(255, 255, 255);
+}
+
+.center-header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+
+.skill-container {
+    border: dotted rgb(255, 255, 255);
+    border-radius: 50px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;  
+    margin-bottom: 10px;
+  }
+
+.skill-container > h2 {
+    color: rgb(0, 0, 0);
+  }
+  
+.Email{
+color: rgb(255, 255, 255);
+}
+
+.logo{
+  width: 200px; margin: auto; display: block;
+  margin-top: 2rem;
+}
